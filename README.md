@@ -144,4 +144,4 @@ print(dicionario.values())
 
 ---
 
-Espero que esse README ajude a organizar e apresentar seu projeto de forma profissional e atraente! Posso ajustar ou personalizar ainda mais, se necessário. 😊
+
